@@ -23,19 +23,17 @@ If that does not work, try: py main.py
 Project Structure
 
 
-mini_amazon/
-│
-├── main.py
-├── users.py
-├── products.py
-├── cart.py
-├── orders.py
-├── storage.py
-│
-├── users.json
-├── products.json
-├── carts.json
-└── orders.json
+"mini_amazon" is the main folder then inside is:
+main.py
+users.py
+products.py
+cart.py
+orders.py
+storage.py
+users.json
+products.json
+carts.json
+orders.json
 
 The program will start with the Welcome Menu.
 
