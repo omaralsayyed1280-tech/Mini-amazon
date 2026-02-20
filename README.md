@@ -13,12 +13,10 @@ It simulates a simplified e-commerce platform where users can:
 
 The system uses JSON files for persistent data storage and follows object-oriented design principles.
 
-To Run:
-1. Clone the repository or download the project folder.
-2. Make sure all files are in the same directory.
-3. Open a terminal inside the project folder.
-4. Run: python main.py
-If that does not work, try: py main.py
+⚠️⚠️⚠️HOW TO RUN⚠️⚠️⚠️:
+1. create a folder and name it "mini amazon"
+2. download the files and place them inside the folder you created
+3. open VS and select the folder then go to main.py and run
 
 Project Structure
 
